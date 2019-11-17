@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://yuriwong.github.io/</loc>
+    <lastmod>2019-11-17T17:38:32+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://yuriwong.github.io/post/</loc>
+    <lastmod>2019-11-17T17:38:32+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://yuriwong.github.io/post/test/</loc>
+    <lastmod>2019-11-17T17:38:32+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://yuriwong.github.io/post/my-first-post/</loc>
+    <lastmod>2019-11-17T15:13:37+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://yuriwong.github.io/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>http://yuriwong.github.io/tags/</loc>
+  </url>
+  
+</urlset>
