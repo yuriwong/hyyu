@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My Blog</title>
-    <link>http://yuriwong.github.io/</link>
+    <link>https://yuriwong.github.io/hyyu/</link>
     <description>Recent content on My Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Copyright hyyu</copyright>
     <lastBuildDate>Sun, 17 Nov 2019 17:38:32 +0800</lastBuildDate>
     
-	<atom:link href="http://yuriwong.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://yuriwong.github.io/hyyu/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Test</title>
-      <link>http://yuriwong.github.io/post/test/</link>
+      <link>https://yuriwong.github.io/hyyu/post/test/</link>
       <pubDate>Sun, 17 Nov 2019 17:38:32 +0800</pubDate>
       
-      <guid>http://yuriwong.github.io/post/test/</guid>
+      <guid>https://yuriwong.github.io/hyyu/post/test/</guid>
       <description>copytight hyyu</description>
     </item>
     
     <item>
       <title>My First Post</title>
-      <link>http://yuriwong.github.io/post/my-first-post/</link>
+      <link>https://yuriwong.github.io/hyyu/post/my-first-post/</link>
       <pubDate>Sun, 17 Nov 2019 15:13:37 +0800</pubDate>
       
-      <guid>http://yuriwong.github.io/post/my-first-post/</guid>
+      <guid>https://yuriwong.github.io/hyyu/post/my-first-post/</guid>
       <description>My New Hugo Site</description>
     </item>
     
